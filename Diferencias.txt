@@ -1,0 +1,19 @@
+¿Cuál es la diferencia entre Git y GitHub?
+
+Con Git, los desarrolladores pueden: 
+	Guardar instantáneas de sus proyectos
+	Acceder, comparar, actualizar, y distribuir versiones de archivos
+	"Empujar" y "tirar" de cambios hacia y desde otras computadoras
+
+
+Con GitHub, los desarrolladores pueden: 
+	Almacenar, compartir, y trabajar en código
+	Presentar o compartir trabajo
+	Seguir y administrar cambios en el código
+	Dejar que otros usuarios revisen el código
+	Colaborar en proyectos compartidos
+
+
+¿Qué ventajas tiene usar ramas en un proyecto?
+
+El uso de ramas de función no solo es más fiable que editar directamente el código de producción, sino que además proporciona ventajas organizativas. Te permite representar el trabajo de desarrollo con la misma granularidad que tu backlog ágil.
